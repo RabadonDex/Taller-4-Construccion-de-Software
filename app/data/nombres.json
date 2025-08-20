@@ -1,0 +1,9 @@
+{
+    "titulo": "Diego anda a clases",
+    "palabras": [
+        {"nombre": "Diego"},
+        {"nombre": "anda"},
+        {"nombre":"a"},
+        {"nombre": "clases"}
+    ]
+}

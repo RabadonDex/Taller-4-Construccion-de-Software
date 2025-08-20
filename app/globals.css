@@ -1,0 +1,13 @@
+body{
+    background-color : #ffffff;
+    font-size: 34px;
+}
+
+h1{
+    font-size: 1em;
+}
+
+div{
+    border: 1px solid #ff0000;
+    margin: 20px 20px 20px 20px
+}
