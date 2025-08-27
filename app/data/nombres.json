@@ -1,9 +1,10 @@
 {
-    "titulo": "Diego anda a clases",
-    "palabras": [
-        {"nombre": "Diego"},
-        {"nombre": "anda"},
-        {"nombre":"a"},
-        {"nombre": "clases"}
-    ]
+  "titulo": "Lista de nombres antigüos",
+  "amigos": [
+    { "nombre": "Porfirio" },
+    { "nombre": "Sofanor" },
+    { "nombre": "Florencio" },
+    { "nombre": "Mina" },
+    { "nombre": "Brígida" }
+  ]
 }
