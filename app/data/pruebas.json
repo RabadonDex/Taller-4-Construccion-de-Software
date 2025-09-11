@@ -1,0 +1,11 @@
+{
+  "titulo": "Próximas Pruebas",
+  "Pruebas": [
+    {"codigo": "INFO085", "nombre": "Estructura de Datos y Algoritmos","fecha": "2025-09-08T9:50:00" },
+    {"codigo": "INFO099","nombre": "Estructuras Discretas","fecha": "2025-09-09T15:50:00"},
+    {"codigo": "BAIN083","nombre": "Calculo en Varias Variables","fecha": "2025-09-9T17:30:30"},
+    {"codigo": "INFO104","nombre": "Taller de Construccion de Software","fecha": "2025-09-10T23:59:59"},
+    {"codigo": "BAIN081","nombre": "Ecuaciones Diferenciales para la Ingenieria","fecha": "2025-09-12T17:30:00"},
+    {"codigo": "BAIN091","nombre": "Estadististica y Probabilidades para la Ingenieria","fecha":"2025-10-02T17:30:00"}
+  ]
+}

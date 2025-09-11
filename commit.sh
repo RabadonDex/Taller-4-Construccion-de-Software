@@ -1,4 +1,4 @@
-cd "/home/aparte/documentos/Estadistica R/" #Cambia la ruta si quieres usarlo en tu repositorio
+cd "/home/aparte/documentos/Taller 4/" #Cambia la ruta si quieres usarlo en tu repositorio
 
 echo "Hola, iniciaste el automatizador de commit"
 echo "Ingresa el commit: " #Pide el commit
